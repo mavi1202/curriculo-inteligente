@@ -76,7 +76,7 @@ export function FormSection() {
                     className="bg-accent text-accent-foreground hover:bg-accent/90 font-bold text-lg px-10 py-6 shadow-lg hover:shadow-xl transition-all hover:-translate-y-0.5 w-full"
                   >
                     <a
-                      href="COLOCAR_LINK_DO_FORM_AQUI"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSdhTzwJ9ypzNP7x-n1W7CoOXOA0tXIoswmOBocCqxEOijkchA/viewform?usp=header"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
